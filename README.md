@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there 👋
 
 <!--
 **nuhaasalsabila/nuhaasalsabila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ As a data science student I want to develop in my current field, while teaching 
     <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio" />
 </div>
 
-##🛠️ Frameworks & Libraries
+🛠️ Frameworks & Libraries
 
 Frameworks and libraries are the backbone of my development process, providing the structure and tools to build scalable and efficient applications. Each was chosen for its ability to facilitate rapid development and provide robust functionality.
 
@@ -41,7 +41,7 @@ Frameworks and libraries are the backbone of my development process, providing t
 
 </div>
 
-##🛠️ Tools & Design
+🛠️ Tools & Design
 
 I leverage cutting-edge tools to streamline my workflow and bring my ideas to life. Here's a snapshot of the tools I frequently use:
 
