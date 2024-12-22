@@ -14,8 +14,7 @@ Here are some ideas to get you started:
     <p>
         <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Data Science GIF" width="480" height="480" />
     </p>
-</div>
-
 <div align="center">
-    <img src="https://raw.githubusercontent.com/nuhaasalsabila/nuhaasalsabila/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio" />
 </div>
