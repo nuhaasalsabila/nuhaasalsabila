@@ -15,3 +15,7 @@ Here are some ideas to get you started:
         <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Data Science GIF" width="480" height="480" />
     </p>
 </div>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/nuhaasalsabila/nuhaasalsabila/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
