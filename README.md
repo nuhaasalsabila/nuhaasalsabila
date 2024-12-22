@@ -1,6 +1,6 @@
 **Hi there 👋**
 
-- 🔭 I’m currently Undergraduate Student in Data Science
+- 🔭 I’m currently an undergraduate student majoring in Data Science
 - 🌱 I’m currently learning Machine Learning and exploring Data Science
 - 👯 I’m looking to collaborate on exciting projects
 
