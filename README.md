@@ -1,9 +1,5 @@
 **Hi there 👋**
 
-**nuhaasalsabila/nuhaasalsabila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently Undergraduate Student in Data Science
 - 🌱 I’m currently learning Machine Learning and exploring Data Science
 - 👯 I’m looking to collaborate on exciting projects
@@ -13,6 +9,7 @@ Here are some ideas to get you started:
         <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Data Science GIF" width="480" height="480" />
     </p>
 
+
 **Programming Languages 💻**
 
 As a data science student I want to develop in my current field, while teaching I use several programming languages for my learning needs.
@@ -21,6 +18,7 @@ As a data science student I want to develop in my current field, while teaching 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio" />
 </div>
+
 
 **🛠️ Frameworks & Libraries**
 
@@ -39,6 +37,7 @@ Frameworks and libraries are the backbone of my development process, providing t
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 
 </div>
+
 
 **🛠️ Tools & Design**
 
